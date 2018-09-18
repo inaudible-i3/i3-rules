@@ -1,7 +1,10 @@
 =Bylaws of i3 Detroit=
 v2.0 Adopted 2011-06-16
 
-Last updated 2015-06-17
+Last updated TODO:
+==Definitions==
+* Notice: All notice and official communication is done by email unless otherwise specified.
+
 ==Article 1. Offices==
 ===Section 1. Principal Office===
 
@@ -111,7 +114,7 @@ Regular meetings of the members shall be held at a time and place decided by a r
 Special meetings of the members shall be called by the board of directors, the chairperson of the board, or the president of the corporation, or, if different, by the persons specifically authorized under the laws of this state to call special meetings of the members.
 
 ===Section 4. Notice of Meetings===
-Unless otherwise provided by the articles of incorporation, these bylaws, or provisions of law, the following provisions shall govern the giving of notice for member meetings:
+The following provisions shall govern the giving of notice for member meetings:
 
 # '''Regular Meetings:''' No notice need be given of any regular member meeting.
 # '''Special Meetings: ''' At least 7 days prior notice shall be given by the secretary of the corporation to each member of each special meeting.
@@ -153,44 +156,39 @@ The secretary of the corporation shall act as secretary of all meetings of membe
 
 Meetings shall be governed by Robert's Rules of Order, as such rules may be revised from time to time, insofar as such rules are not inconsistent with or in conflict with the articles of incorporation, these bylaws, or with provisions of law.
 
-==Article 5. Directors==
+==Article 5. Board Members==
 ===Section 1. Number===
 The corporation shall have at least five (5) and no more than eleven (11) directors and collectively they shall be known as the board of directors.
 The exact number of directors shall be fixed, within those limits, by a resolution adopted by the board of directors.
 
 ===Section 2. Qualifications===
-Directors shall be of the age of majority in this state.
+Board Members shall be of the age of majority in this state.
 
 ===Section 3. Powers===
-Subject to the provisions of the laws of this state and any limitations in the articles of incorporation and these Bylaws relating to action required or permitted to be taken or approved by the members, if any, of this corporation, the activities and affairs of this corporation shall be conducted and all corporate powers shall be exercised by or under the direction of the board of directors.
+The board controls the corporate powers, as well as day to day operations.
 
 ===Section 4. Duties===
-It shall be the duty of the directors to:
+It shall be the duty of the board to:
 
-# Perform any and all duties imposed on them collectively or individually by law, by the articles of incorporation, or by these bylaws;
-# Appoint and remove, employ and discharge, and, except as otherwise provided in these bylaws, prescribe the duties and fix the compensation, if any, of all officers, agents, and employees of the corporation;
-# Supervise all officers, agents, and employees of the corporation to assure that their duties are performed properly;
-# Meet at such times and places as required by these bylaws;
-# Register their addresses with the secretary of the corporation, and notices of meetings mailed or telegraphed to them at such addresses shall be valid notices thereof.
+# Appoint, remove, and prescribe the duties of all officers, zone coordinators, and agents.
+# Have meetings
 
 ===Section 5. Term of Office===
-Each director shall hold office for a period of one (1) year and until his or her successor is elected and qualifies.
+Board Member term: 1 year, or until their successor is elected.
 
 ===Section 6. Compensation===
-Directors shall serve without compensation except that they shall be allowed reasonable advancement or reimbursement of expenses incurred in the performance of their duties.
-
-===Section 7. Place Of Meetings===
-Meetings shall be held at the principal office of the corporation unless otherwise provided by the board or at such other place as may be designated from time to time by resolution of the board of directors.
+None.
 
 ===Section 8. Regular Meetings===
-Regular meetings of directors shall be held at a time and place decided by a resolution of the board of directors.
+Regular meetings of board shall be held at i3 at a time decided by a resolution of the board.
+The board can specify an alternate location that will be provided with a week of notice.
 
 ===Section 9. Special Meetings===
 Special meetings of the board of directors may be called by the chairperson of the board, the president, the vice president, the secretary, the treasurer, by any two directors, or, if different, by the persons specifically authorized under the laws of this state to call special meetings of the board.
 Such meetings shall be held at the principal office of the corporation or, if different, at the place designated by the person or persons calling the special meeting.
 
 ===Section 10. Notice of Meetings===
-Unless otherwise provided by the articles of incorporation, these bylaws, or provisions of law, the following provisions shall govern the giving of notice for meetings of the board of directors:
+The following provisions shall govern the giving of notice for member meetings:
 
 # '''Regular Meetings:''' Notice shall be given by the secretary of the corporation to each member following a resolution altering the schedule of regular meetings.
 Such notice may be by usual means.
@@ -218,19 +216,18 @@ No director may resign if the corporation would then be left without a duly elec
 
 Directors may be removed from office, with or without cause, by any of the following means:
 
-# By the vote of the majority of the members of the entire board of directors at a special meeting called for that purpose, or at a regular meeting, provided that notice of that meeting and of the removal questions are given;
-# In a corporation with fewer than 50 members, the removal is approved by a majority of all members;
-# In a corporation with 50 or more members, the removal is approved by the members.
+Board Members may be removed from office, on a whim, by any of the following means:
 
 Unless otherwise prohibited by the articles of incorporation, these bylaws, or provisions of law, vacancies on the board may be filled by approval of the board of directors.
 If the number of directors then in office is less than a quorum, a vacancy on the board may be filled by approval of a majority of the directors then in office or by a sole remaining director.
 A person elected to fill a vacancy on the board shall hold office until the next election of the board of directors or until his or her death, resignation, or removal from office.
 
-===Section 15. Nonliability of Directors===
-The directors shall not be personally liable for the debts, liabilities, or other obligations of the corporation.
+Vacancies on the board can be filled by appointment by remaining members of the board.
+A person elected to fill a vacancy on the board shall hold office until the next election of the board of directors or until their death, resignation, or removal from office, not necessarily in that order.
 
-===Section 16. Indemnification by Corporation of Directors and Officers===
-The directors and officers of the corporation shall be indemnified by the corporation to the fullest extent permissible under the laws of this state.
+===Section 15. Legal Liability Boilerplate===
+The board shall not be personally liable for the debts, liabilities, or other obligations of the corporation.
+The board and officers of the corporation shall be indemnified by the corporation to the fullest extent permissible under the laws of this state.
 
 ===Section 17. Insurance For Corporate Agents===
 Except as may be otherwise provided under provisions of law, the board of directors may adopt a resolution authorizing the purchase and maintenance of insurance on behalf of any agent of the corporation (including a director, officer, employee, or other agent of the corporation) against liabilities asserted against or incurred by the agent in such capacity or arising out of the agent's status as such, whether or not the corporation would have the power to indemnify the agent against such liability under the articles of incorporation, these bylaws, or provisions of law.
@@ -242,9 +239,10 @@ The corporation may also have a chairperson of the board, one or more vice presi
 
 ===Section 2. Qualifications===
 Any person may serve as officer of this corporation.
+TODO: put qualifications for member, officer and board member all in the same place
 
 ===Section 3. Election and Term of Office===
-Officers shall be elected by the board of directors, at any time, and each officer shall hold office until he or she resigns or is removed or is otherwise disqualified to serve, or until his or her successor shall be elected and qualified, whichever occurs first.
+Officers are elected by the board, and serve until they resign, get removed, or are replaced.
 
 ===Section 4. Removal and Resignation===
 Any officer may be removed, either with or without cause, by the board of directors, at any time.
@@ -275,7 +273,7 @@ The secretary shall:
 # See that all notices are duly given in accordance with the provisions of these bylaws or as required by law.
 # Be custodian of the records and of the seal of the corporation and affix the seal, as authorized by law or the provisions of these bylaws, to duly executed documents of the corporation.
 # Keep at the principal office of the corporation a membership book containing the name and address of each and any members, and, in the case where any membership has been terminated, he or she shall record such fact in the membership book together with the date on which such membership ceased.
-# Exhibit at all reasonable times to any director of the corporation, or to his or her agent or attorney, on request therefor, the Bylaws, the membership book, and the minutes of the proceedings of the directors of the corporation.
+# Exhibit at all reasonable times to any director of the corporation, or to their agent or attorney, on request therefor, the Bylaws, the membership book, and the minutes of the proceedings of the directors of the corporation.
 # In general, perform all duties incident to the office of secretary and such other duties as may be required by law, by the articles of incorporation or by these bylaws, or which may be assigned to him or her from time to time by the board of directors.
 
 ===Section 9. Duties Of Treasurer===
@@ -285,13 +283,10 @@ The treasurer shall:
 # Receive, and give receipt for, monies due and payable to the corporation from any source whatsoever.
 # Disburse, or cause to be disbursed, the funds of the corporation as may be directed by the board of directors, taking proper vouchers for such disbursements.
 # Keep and maintain adequate and correct accounts of the corporation's properties and business transactions, including accounts of its assets, liabilities, receipts, disbursements, gains, and losses.
-# Exhibit at all reasonable times the books of account and financial records to any director of the corporation, or to his or her agent or attorney, on request therefor.
-# Render to the president and directors, whenever requested, an account of any or all of his or her transactions as Treasurer and of the financial condition of the corporation.
+# Exhibit at all reasonable times the books of account and financial records to any director of the corporation, or to their agent or attorney, on request therefor.
+# Render to the president and directors, whenever requested, an account of any or all of their transactions as Treasurer and of the financial condition of the corporation.
 # Prepare, or cause to be prepared, and certify, or cause to be certified, the financial statements to be included in any required reports.
 # In general, perform all duties incident to the office of treasurer and such other duties as may be required by law, by the articles of incorporation of the corporation or by these bylaws, or which may be assigned to him or her from time to time by the board of directors.
-
-===Section 10. Compensation===
-Officers shall serve without compensation except that they shall be allowed reasonable advancement or reimbursement of expenses incurred in the performance of their duties.
 
 ==Article 7. Committees==
 ===Section 1. Executive Committee===
@@ -328,16 +323,16 @@ The corporation shall keep at its principal office:
 
 # Minutes of all meetings of directors, committees of the board, and, if this corporation has members, of all meetings of members, indicating the time and place of holding such meetings, whether regular or special, how called, the notice given, and the names of those present and the proceedings thereof;
 # Adequate and correct books and records of account, including accounts of its properties and business transactions and accounts of its assets, liabilities, receipts, disbursements, gains, and losses;
-# A record of its members, if any, indicating their names and addresses and, if applicable, the class of membership held by each member and the termination date of any membership;
-# A copy of the corporation's articles of incorporation and bylaws as amended to date, which shall be open to inspection by the members, if any, of the corporation at all reasonable times during office hours.
+# A record of its members, if any, indicating their names and addresses and, if applicable, the termination date of any membership;
+# A copy of the corporation's articles of incorporation and bylaws as amended to date, which shall be open to inspection by the members.
 
 ===Section 2. Corporate Seal===
 The board of directors may adopt, use, and at will alter, a corporate seal.
 Such seal shall be kept at the principal office of the corporation.
 Failure to affix the seal to corporate instruments, however, shall not affect the validity of any such instrument.
 
-===Section 3. Directors' Inspection Rights===
-Every director shall have the absolute right at any reasonable time to inspect and copy all books, records, and documents of every kind and to inspect the physical properties of the corporation and shall have such other rights to inspect the books, records, and properties of this corporation as may be required under the articles of incorporation, other provisions of these bylaws, and provisions of law.
+===Section 3. Board Members' Inspection Rights===
+The board can view all books, records, documents, etc at any reasonable time.
 
 ===Section 4. Members' Inspection Rights===
 If this corporation has any members, then each and every member shall have the following inspection rights, for a purpose reasonably related to such person's interest as a member:
@@ -355,6 +350,8 @@ Any inspection under the provisions of this article may be made in person or by 
 
 ===Section 6. Periodic Report===
 The board shall cause any annual or periodic report required under law to be prepared and delivered to an office of this state or to the members, if any, of this corporation, to be so prepared and delivered within the time limits set by law.
+TODO: write that the board has to make sure i3 follows laws
+TODO: make separate thing of laws that pertain to us
 
 ==Article 10. IRC 501(c)(3) Tax Exemption Provisions==
 ===Section 1. Limitations on Activities===
@@ -374,13 +371,13 @@ In any taxable year in which this corporation is a private foundation as describ
 
 ==Article 11. Nondiscrimination==
 ===Section 1. Nondiscrimination===
-This corporation shall not discriminate on the basis of sex, race, color, religion, creed, age, nationality, national origin, ancestry, pregnancy, marital status or parental status, sexual orientation, gender identity, or disability.
+This corporation shall not discriminate on the basis of gender, sex, race, color, religion, creed, age, nationality, national origin, ancestry, pregnancy, marital status or parental status, sexual orientation, gender identity, or disability or ANYTHING else, shall exist in this fine, upstanding organization.
 
 ==Article 12. Amendment of Bylaws==
 ===Section 1. Amendment===
 These bylaws, or any of them, may be altered, amended or repealed and new bylaws adopted subject to approval by 2/3 of the entire board of directors and subject to approval of the membership by a 2/3 majority.
 
-==Article 13. Construction and Terms==
+==Article 13. Construction and Terms Boilerplate==
 If there is any conflict between the provisions of these bylaws and the articles of incorporation of this corporation, the provisions of the articles of incorporation shall govern.
 
 Should any of the provisions or portions of these bylaws be held unenforceable or invalid for any reason, the remaining provisions and portions of these bylaws shall be unaffected by such holding.
